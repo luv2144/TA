@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54395988-5cea-4081-9ce8-db51d68e230d" name="Default Changelist" comment="" />
+    <list default="true" id="54395988-5cea-4081-9ce8-db51d68e230d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CheckEmailHappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CheckEmailHappyPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CheckEmailUnhappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CheckEmailUnhappyPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/AutomationPractice.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Xo6FPxTXWoOB0eUXTFOrh2JPQR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,26 +39,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="TestNG.CheckEmailHappyPath">
-    <configuration name="CheckAssertions.verifyLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\TA\AutomationPractice\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCheckbox.selectCheckboxItemsByXPath">
+    <configuration name="TestButtons" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckAssertions" />
-      <option name="METHOD_NAME" value="verifyLogin" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckEmailHappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckEmailHappyPath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
+      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestButtons" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -56,11 +66,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckEmailHappyPath.verifyValidEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestButtons.PressDropdownLink2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckEmailHappyPath" />
-      <option name="METHOD_NAME" value="verifyValidEmail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
+      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestButtons" />
+      <option name="METHOD_NAME" value="PressDropdownLink2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -68,10 +84,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckEmailUnhappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestButtons.pressLeftButton" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckEmailUnhappyPath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
+      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestButtons" />
+      <option name="METHOD_NAME" value="pressLeftButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCheckbox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
+      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestCheckbox" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -79,11 +119,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckEmailUnhappyPath.verifyInvalidEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCheckbox.selectCheckboxItemsByXPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckEmailUnhappyPath" />
-      <option name="METHOD_NAME" value="verifyInvalidEmail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
+      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestCheckbox" />
+      <option name="METHOD_NAME" value="selectCheckboxItemsByXPath" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -93,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CheckEmailHappyPath" />
-        <item itemvalue="TestNG.CheckEmailUnhappyPath" />
-        <item itemvalue="TestNG.CheckEmailUnhappyPath.verifyInvalidEmail" />
-        <item itemvalue="TestNG.CheckEmailHappyPath.verifyValidEmail" />
-        <item itemvalue="TestNG.CheckAssertions.verifyLogin" />
+        <item itemvalue="TestNG.TestCheckbox.selectCheckboxItemsByXPath" />
+        <item itemvalue="TestNG.TestButtons" />
+        <item itemvalue="TestNG.TestCheckbox" />
+        <item itemvalue="TestNG.TestButtons.PressDropdownLink2" />
+        <item itemvalue="TestNG.TestButtons.pressLeftButton" />
       </list>
     </recent_temporary>
   </component>
@@ -131,29 +177,33 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582034016197" />
-    <state width="1557" height="223" key="GridCell.Tab.0.bottom" timestamp="1582231390928">
+    <state width="1557" height="225" key="GridCell.Tab.0.bottom" timestamp="1582826570073">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="223" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582231390928" />
-    <state width="1557" height="223" key="GridCell.Tab.0.center" timestamp="1582231390912">
+    <state width="1557" height="225" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582826570073" />
+    <state width="1557" height="225" key="GridCell.Tab.0.center" timestamp="1582826570073">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="223" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582231390912" />
-    <state width="1557" height="223" key="GridCell.Tab.0.left" timestamp="1582231390912">
+    <state width="1557" height="225" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582826570073" />
+    <state width="1557" height="225" key="GridCell.Tab.0.left" timestamp="1582826570073">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="223" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582231390912" />
-    <state width="1557" height="223" key="GridCell.Tab.0.right" timestamp="1582231390928">
+    <state width="1557" height="225" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582826570073" />
+    <state width="1557" height="225" key="GridCell.Tab.0.right" timestamp="1582826570073">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="223" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582231390928" />
+    <state width="1557" height="225" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582826570073" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1581705730039">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1581705730039" />
-    <state x="495" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1582231347279">
+    <state x="495" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1582820124816">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582231347279" />
+    <state x="495" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582820124816" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1582803887380">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1582803887380" />
   </component>
 </project>
