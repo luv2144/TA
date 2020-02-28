@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54395988-5cea-4081-9ce8-db51d68e230d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CheckEmailHappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CheckEmailHappyPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CheckEmailUnhappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CheckEmailUnhappyPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/AutomationPractice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/TestDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/TestDropdown.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="selenium_base_api_second_hw" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="luv2144" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="TA" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -48,7 +52,7 @@
       <recent name="C:\Users\Dell\TA\AutomationPractice\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestCheckbox.selectCheckboxItemsByXPath">
+  <component name="RunManager" selected="TestNG.TestDropdown.selectDropdownLinks">
     <configuration name="TestButtons" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <extension name="coverage">
@@ -59,59 +63,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="seleniumBaseApi" />
       <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestButtons" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestButtons.PressDropdownLink2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestButtons" />
-      <option name="METHOD_NAME" value="PressDropdownLink2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestButtons.pressLeftButton" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestButtons" />
-      <option name="METHOD_NAME" value="pressLeftButton" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCheckbox" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestCheckbox" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -137,13 +88,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestDropdown" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
+      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestDropdown" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDropdown.PressDropdownLinks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
+      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestDropdown" />
+      <option name="METHOD_NAME" value="PressDropdownLinks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDropdown.selectDropdownLinks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
+      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestDropdown" />
+      <option name="METHOD_NAME" value="selectDropdownLinks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestDropdown.selectDropdownLinks" />
+        <item itemvalue="TestNG.TestDropdown" />
+        <item itemvalue="TestNG.TestDropdown.PressDropdownLinks" />
         <item itemvalue="TestNG.TestCheckbox.selectCheckboxItemsByXPath" />
         <item itemvalue="TestNG.TestButtons" />
-        <item itemvalue="TestNG.TestCheckbox" />
-        <item itemvalue="TestNG.TestButtons.PressDropdownLink2" />
-        <item itemvalue="TestNG.TestButtons.pressLeftButton" />
       </list>
     </recent_temporary>
   </component>
@@ -172,38 +176,95 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="89" key="#Notifications" timestamp="1582903982128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1582903982128" />
     <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1582034016197">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582034016197" />
-    <state width="1557" height="225" key="GridCell.Tab.0.bottom" timestamp="1582826570073">
+    <state x="614" y="298" key="Github.CreatePullRequestDialog" timestamp="1582904245039">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="225" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582826570073" />
-    <state width="1557" height="225" key="GridCell.Tab.0.center" timestamp="1582826570073">
+    <state x="614" y="298" key="Github.CreatePullRequestDialog/0.0.1600.860@0.0.1600.860" timestamp="1582904245039" />
+    <state width="1557" height="227" key="GridCell.Tab.0.bottom" timestamp="1582901408004">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="225" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582826570073" />
-    <state width="1557" height="225" key="GridCell.Tab.0.left" timestamp="1582826570073">
+    <state width="1557" height="227" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582901408004" />
+    <state width="1557" height="227" key="GridCell.Tab.0.center" timestamp="1582901408003">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="225" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582826570073" />
-    <state width="1557" height="225" key="GridCell.Tab.0.right" timestamp="1582826570073">
+    <state width="1557" height="227" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582901408003" />
+    <state width="1557" height="227" key="GridCell.Tab.0.left" timestamp="1582901408003">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="225" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582826570073" />
+    <state width="1557" height="227" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582901408003" />
+    <state width="1557" height="227" key="GridCell.Tab.0.right" timestamp="1582901408004">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="227" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582901408004" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1582894873504">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582894873504" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1582894873503">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1582894873503" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1582894873503">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1582894873503" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1582894873504">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1582894873504" />
+    <state x="512" y="147" key="MultipleFileMergeDialog" timestamp="1582904286885">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="512" y="147" key="MultipleFileMergeDialog/0.0.1600.860@0.0.1600.860" timestamp="1582904286885" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1581705730039">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1581705730039" />
-    <state x="495" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1582820124816">
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1582903973553">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582820124816" />
-    <state x="456" y="195" key="run.anything.popup" timestamp="1582803887380">
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1582903973553" />
+    <state x="197" y="160" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1582904230311">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1582803887380" />
+    <state x="197" y="160" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1600.860@0.0.1600.860" timestamp="1582904230311" />
+    <state x="495" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1582887850363">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582887850363" />
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582904090511">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1582904090511" />
+    <state x="555" y="222" key="git4idea.merge.GitPullDialog" timestamp="1582904271062">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="555" y="222" key="git4idea.merge.GitPullDialog/0.0.1600.860@0.0.1600.860" timestamp="1582904271062" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1582876467601">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1582876467601" />
   </component>
 </project>
