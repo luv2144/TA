@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54395988-5cea-4081-9ce8-db51d68e230d" name="Default Changelist" comment="">
+    <list default="true" id="54395988-5cea-4081-9ce8-db51d68e230d" name="Default Changelist" comment="hw2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CheckEmailHappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CheckEmailHappyPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CheckEmailUnhappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CheckEmailUnhappyPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/TestDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/TestDropdown.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +173,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581699995076</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw2">
+      <created>1582983799280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582983799281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,15 +196,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw2" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="392" y="89" key="#Notifications" timestamp="1582903982128">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="89" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1582903982128" />
-    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1582983757085">
+    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1582983797308">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582983757085" />
+    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582983797308" />
     <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1582034016197">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -242,10 +253,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="512" y="147" key="MultipleFileMergeDialog/0.0.1600.860@0.0.1600.860" timestamp="1582904286885" />
-    <state x="566" y="142" key="RollbackChangesDialog" timestamp="1582925355035">
+    <state x="566" y="142" key="RollbackChangesDialog" timestamp="1582983947894">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="566" y="142" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1582925355035" />
+    <state x="566" y="142" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1582983947894" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1581705730039">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
