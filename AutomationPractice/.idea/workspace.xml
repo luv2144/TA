@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54395988-5cea-4081-9ce8-db51d68e230d" name="Default Changelist" comment="hw2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/TestDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/TestDropdown.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +41,72 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3240059" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\TA\AutomationPractice" />
+      <recent name="C:\Users\Dell\TA\AutomationPractice\src\test\java\CucumberWithSelenium" />
       <recent name="C:\Users\Dell\TA\AutomationPractice\src\test\java" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="example" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestDropdown">
+  <component name="RunManager" selected="JUnit.Runner">
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CucumberWithSelenium.TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CucumberWithSelenium.TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="CucumberWithSelenium.TestRunner.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckboxPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modifiedHW2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modifiedHW2" />
+      <option name="MAIN_CLASS_NAME" value="modifiedHW2.CheckboxPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormyPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modifiedHW2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modifiedHW2" />
+      <option name="MAIN_CLASS_NAME" value="modifiedHW2.FormyPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SeleniumGrid" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <extension name="coverage">
@@ -69,71 +124,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCheckbox.selectCheckboxItemsByXPath" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SignUpFormTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="PATTERN" value="modifiedHW2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestCheckbox" />
-      <option name="METHOD_NAME" value="selectCheckboxItemsByXPath" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDropdown" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestDropdown" />
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.SignUpFormTest" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDropdown.PressDropdownLinks" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestDropdown" />
-      <option name="METHOD_NAME" value="PressDropdownLinks" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDropdown.selectDropdownLinks" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.TestDropdown" />
-      <option name="METHOD_NAME" value="selectDropdownLinks" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestDropdown" />
-        <item itemvalue="TestNG.TestDropdown.selectDropdownLinks" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="TestNG.FormyPageTest" />
+        <item itemvalue="TestNG.CheckboxPageTest" />
+        <item itemvalue="TestNG.SignUpFormTest" />
         <item itemvalue="TestNG.SeleniumGrid" />
-        <item itemvalue="TestNG.TestDropdown.PressDropdownLinks" />
-        <item itemvalue="TestNG.TestCheckbox.selectCheckboxItemsByXPath" />
       </list>
     </recent_temporary>
   </component>
@@ -205,34 +206,54 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="89" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1582903982128" />
+    <state x="392" y="89" key="#Project_Structure" timestamp="1583330148791">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1583330148791" />
+    <state x="44" y="468" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583271232232">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="44" y="468" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1583271232232" />
+    <state x="605" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1583228375849">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1583228375849" />
+    <state x="495" y="356" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583334000694">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="356" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1583334000694" />
+    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583182681720">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1583182681720" />
     <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1582983797308">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582983797308" />
-    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1582034016197">
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1583330490744">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582034016197" />
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583330490744" />
     <state x="614" y="298" key="Github.CreatePullRequestDialog" timestamp="1582904245039">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="614" y="298" key="Github.CreatePullRequestDialog/0.0.1600.860@0.0.1600.860" timestamp="1582904245039" />
-    <state width="1557" height="232" key="GridCell.Tab.0.bottom" timestamp="1583170514851">
+    <state width="1557" height="309" key="GridCell.Tab.0.bottom" timestamp="1583348634901">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="232" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583170514851" />
-    <state width="1557" height="232" key="GridCell.Tab.0.center" timestamp="1583170514851">
+    <state width="1557" height="309" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583348634901" />
+    <state width="1557" height="309" key="GridCell.Tab.0.center" timestamp="1583348634901">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="232" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583170514851" />
-    <state width="1557" height="232" key="GridCell.Tab.0.left" timestamp="1583170514851">
+    <state width="1557" height="309" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583348634901" />
+    <state width="1557" height="309" key="GridCell.Tab.0.left" timestamp="1583348634901">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="232" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583170514851" />
-    <state width="1557" height="232" key="GridCell.Tab.0.right" timestamp="1583170514851">
+    <state width="1557" height="309" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583348634901" />
+    <state width="1557" height="309" key="GridCell.Tab.0.right" timestamp="1583348634901">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="232" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583170514851" />
+    <state width="1557" height="309" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583348634901" />
     <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1582904894236">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -249,6 +270,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1582904894236" />
+    <state x="660" y="97" key="Maven.ArtifactSearchDialog" timestamp="1583180780310">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="660" y="97" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1583180780310" />
     <state x="512" y="147" key="MultipleFileMergeDialog" timestamp="1582904286885">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -257,22 +282,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="566" y="142" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1582983947894" />
-    <state x="301" y="73" key="SettingsEditor" timestamp="1581705730039">
+    <state x="301" y="11" key="SettingsEditor" timestamp="1583340874128">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1581705730039" />
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1582903973553">
+    <state x="301" y="11" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583340874128" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1583171538921">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1582903973553" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583171538921" />
     <state x="197" y="160" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1582904230311">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="197" y="160" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1600.860@0.0.1600.860" timestamp="1582904230311" />
-    <state x="495" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1583149332850">
+    <state x="495" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1583396692644">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583149332850" />
+    <state x="495" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583396692644" />
     <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582904090511">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
